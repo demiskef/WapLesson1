@@ -1,0 +1,54 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+}
+article {
+    margin: auto 0;
+}
+footer{
+    margin-left:30px;
+    margin-top: auto;
+    text-align: center;
+}
+
+header{
+    
+    padding-left:30px;
+    height: 200px;
+    background-image: url("header.jpeg");
+
+}
+
+main{
+    padding:40px;
+
+}
+
+ol {
+    padding: 20px;
+  }
+  
+  ul {
+    padding: 20px;
+  }
+  
+  ol li {
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  ul li {
+    margin: 5px;
+  }
+
+  img {
+    border-radius: 50%;
+  }
+
+  .image-container{
+    padding-top: 50px;
+    padding-left:50px
+  }
